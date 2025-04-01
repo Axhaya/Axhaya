@@ -11,7 +11,15 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> 
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
+  <a href="https://docs.godotengine.org/en/stable/index.html" target="_blank" rel="noreferrer"> <img src="https://www.dockhunt.com/_next/image?url=https:%2F%2Fdockhunt-images.nyc3.cdn.digitaloceanspaces.com%2F907f145c-ed79-4114-b73e-fd8ef4ccab56&w=384&q=75" alt="gdscript" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+</p>
+
+<p align="left">
+  <a href="https://docs.godotengine.org/en/stable/index.html" target="_blank" rel="noreferrer"> <img src="https://media.indiedb.com/images/engines/1/1/633/godot_logo_big.png" alt="godot engine" width="40" height="40"/> </a>
+</p>
 
 
 
