@@ -18,7 +18,7 @@
 </p>
 
 <p align="left">
-  <a href="https://docs.godotengine.org/en/stable/index.html" target="_blank" rel="noreferrer"> <img src="https://media.indiedb.com/images/engines/1/1/633/godot_logo_big.png" alt="godot engine" width="40" height="40"/> </a>
+  <a href="https://godotengine.org/" target="_blank" rel="noreferrer"> <img src="https://media.indiedb.com/images/engines/1/1/633/godot_logo_big.png" alt="godot engine" width="40" height="40"/> </a>
 </p>
 
 
