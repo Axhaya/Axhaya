@@ -21,13 +21,14 @@
   <a href="https://godotengine.org/" target="_blank" rel="noreferrer"> <img src="https://media.indiedb.com/images/engines/1/1/633/godot_logo_big.png" alt="godot engine" width="40" height="40"/> </a>
 </p>
 
-
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Axhaya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Axhaya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Axhaya&show_icons=true&theme=radical" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Axhaya&layout=compact&langs_count=8&card_width=320&theme=radical" />
+  </a>
 </div>
-
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/axhaya"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="axhaya" /></a></p><br><br>
